@@ -3,6 +3,7 @@ In-depth ox-inventory logs with every you'll ever neeed.
 ## Preview
 - ![preview](https://i.imgur.com/HBc7Xyv.png)
 
+
 ## Dependencies
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 
